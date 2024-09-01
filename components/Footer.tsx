@@ -2,7 +2,7 @@ import React from "react";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
 import { socialMedia } from "@/app/data";
-
+import Image from "next/image";
 function Footer() {
   return (
     <footer className="w-full mb-[100px] md:mb-5 pb-10" id="contact">
@@ -34,7 +34,7 @@ function Footer() {
               key={profile.id}
               className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-100 bg-opacity-75 bg-black-200 rounded-lg border-black-300"
             >
-              <img src={profile.img} alt={profile.id} width={20} height={20} />
+              <Image  src={profile.img} alt={profile.img} width={20} height={20} />
             </a>
           ))}
         </div>
