@@ -5,7 +5,20 @@ import { gridItems } from "@/app/data";
 const Grid = () => {
   return (
     <section id="about">
-      <BentoGrid>
+           <div className="flex justify-center items-center md:gap-2">
+           <h1 className="heading">
+           Why
+        <span className="text-purple"> Information System UNAIR?</span>
+      </h1>
+
+      <div
+            className="lg:w-20 lg:h-20 w-15 h-15 flex justify-center gap-1"
+                    >
+  <img src="/LOGO_HIMSI.png" alt="Logo Pointer" className="p-1" />
+  </div>
+           </div>
+
+      <BentoGrid className="mt-12">
         {gridItems.map(
           ({
             id,
