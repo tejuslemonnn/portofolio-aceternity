@@ -12,7 +12,7 @@ const Grid = () => {
       </h1>
 
       <div
-            className="lg:w-20 lg:h-20 w-15 h-15 flex justify-center gap-1"
+            className="lg:w-20 lg:h-20 w-40 h-w-40 flex justify-center gap-1"
                     >
   <img src="/LOGO_HIMSI.png" alt="Logo Pointer" className="p-1" />
   </div>

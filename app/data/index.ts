@@ -10,7 +10,7 @@ export const gridItems = [
     id: 1,
     title: "Preparing students to be ready for technological advancements with a foundation of 'Excellence With Morality.'",
     description: "",
-    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
+    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[20vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
     img: "/b1.svg",
@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "Alumni are spread across various national and international companies",
+    title: "Alumni are employed at a diverse range of national and international companies",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
