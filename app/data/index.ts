@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Rena",
-    des: "Build Web App that use for company internal needs using AngularJS and PHP Native.",
+    des: "Rena is a management employee, task and project for internal company.",
     img: "/rena.svg",
     iconLists: ["/php.svg", "/angular.svg"],
     link: "INTERNAL COMPANY APP",
@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 2,
     title: "Cak Durasim App",
-    des: "Build mobile app using Flutter Framework with Getx State Management",
+    des: "The Cak Durationm application is the official application as a companion for visitors who are and will visit the Cak Durationm cultural park.",
     img: "/cak-durasim.svg",
     iconLists: ["/flutter.svg", "/getx.svg"],
     link: "https://play.google.com/store/apps/details?id=id.go.jatimprov.cakdurasimapp&pcampaignid=web_share",
