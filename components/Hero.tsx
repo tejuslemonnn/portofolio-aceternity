@@ -34,9 +34,9 @@ const Hero = () => {
           A Systems Information student at Airlangga University with hands-on experience in both Web Development (Laravel, NodeJS, and VueJS) and Mobile Development (Flutter). Previously graduated from SMK Negeri 1 Surabaya, now pursuing a degree at Airlangga University.
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
-              title="Show My Work"
+              title="Show My Projects"
               icon={<FaLocationArrow />}
               position="right"
             />
