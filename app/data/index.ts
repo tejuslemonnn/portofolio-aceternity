@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Rena",
-    des: "Rena is a management employee, task and project for internal company.",
+    des: "Rena is a management employee responsible for tasks and projects within the company.",
     img: "/rena.svg",
     iconLists: ["/php.svg", "/angular.svg"],
     link: "INTERNAL COMPANY APP",
@@ -97,7 +97,7 @@ export const projects = [
   {
     id: 4,
     title: "Eprocurement Indonesia",
-    des: "Build mobile app that use for company internal needs using Flutter Framework with Getx State Management",
+    des: "Eprocurement Indonesia is a mobile app-based application that functions for vendor management internal companies.",
     img: "/e-proc-mobile.svg",
     iconLists: ["/flutter.svg", "/getx.svg"],
     link: "INTERNAL COMPANY APP",
